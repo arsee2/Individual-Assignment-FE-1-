@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "mtsrest": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mtsrest"
+    }
+  },
+  "defaultProject": "mtsrest",
+  "cli": {
+    "analytics": "1682457d-01c8-4fd3-8f0b-ebc247a27faa"
+  }
 }
